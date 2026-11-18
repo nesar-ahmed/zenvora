@@ -1,0 +1,37 @@
+[
+  {
+    "email": "superadmin@zenvora.dev",
+    "password": "SuperAdmin123!",
+    "full_name": "Zenvora Super Admin",
+    "role": "super_admin",
+    "is_active": true
+  },
+  {
+    "email": "admin@zenvora.dev",
+    "password": "Admin123!",
+    "full_name": "Zenvora Admin",
+    "role": "admin",
+    "is_active": true
+  },
+  {
+    "email": "customer@zenvora.dev",
+    "password": "Customer123!",
+    "full_name": "Demo Customer",
+    "role": "customer",
+    "is_active": true
+  },
+  {
+    "email": "merchant@zenvora.dev",
+    "password": "Merchant123!",
+    "full_name": "Demo Merchant",
+    "role": "merchant",
+    "is_active": true
+  },
+  {
+    "email": "driver@zenvora.dev",
+    "password": "Driver123!",
+    "full_name": "Demo Driver",
+    "role": "driver",
+    "is_active": true
+  }
+]

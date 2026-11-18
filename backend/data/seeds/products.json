@@ -1,0 +1,335 @@
+[
+  {
+    "business_slug": "bellas-kitchen",
+    "name": "Margherita Pizza",
+    "description": "San Marzano tomato, fresh mozzarella, basil and olive oil.",
+    "category": "Pizza",
+    "price_cents": 1250,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "bellas-kitchen",
+    "name": "Chicken Burger",
+    "description": "Grilled chicken, pickled onion, lettuce and house sauce.",
+    "category": "Burgers",
+    "price_cents": 1090,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "bellas-kitchen",
+    "name": "Caesar Salad",
+    "description": "Crisp romaine, parmesan, croutons and creamy dressing.",
+    "category": "Salads",
+    "price_cents": 840,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "bellas-kitchen",
+    "name": "Tiramisu",
+    "description": "Espresso-soaked sponge with mascarpone and cocoa.",
+    "category": "Desserts",
+    "price_cents": 650,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "fresh-basket",
+    "name": "Organic Bananas",
+    "description": "A ripe bunch of organic bananas, sold by the bunch.",
+    "category": "Produce",
+    "price_cents": 240,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "fresh-basket",
+    "name": "Sourdough Bread",
+    "description": "Slow-fermented country loaf with a crisp crust.",
+    "category": "Bakery",
+    "price_cents": 420,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "fresh-basket",
+    "name": "Free-range Eggs",
+    "description": "Half a dozen free-range eggs from a local farm.",
+    "category": "Dairy",
+    "price_cents": 480,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "corner-and-co",
+    "name": "Reusable Coffee Cup",
+    "description": "Double-walled stainless cup that keeps drinks warm for hours.",
+    "category": "Homeware",
+    "price_cents": 1400,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "corner-and-co",
+    "name": "Pocket Notebook",
+    "description": "Linen-bound notebook with 120 pages of recycled paper.",
+    "category": "Stationery",
+    "price_cents": 750,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "spice-route",
+    "name": "Chicken Tikka Masala",
+    "description": "Charred chicken in a rich tomato and fenugreek sauce.",
+    "category": "Indian",
+    "price_cents": 1290,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "spice-route",
+    "name": "Vegetable Biryani",
+    "description": "Fragrant basmati rice layered with spiced vegetables and herbs.",
+    "category": "Indian",
+    "price_cents": 1090,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "spice-route",
+    "name": "Garlic Naan",
+    "description": "Freshly baked flatbread brushed with garlic butter.",
+    "category": "Sides",
+    "price_cents": 350,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "spice-route",
+    "name": "Mango Lassi",
+    "description": "Chilled yoghurt drink blended with ripe mango.",
+    "category": "Drinks",
+    "price_cents": 450,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "green-bowl",
+    "name": "Rainbow Poke Bowl",
+    "description": "Rice, avocado, edamame, pickled vegetables and sesame dressing.",
+    "category": "Healthy",
+    "price_cents": 1190,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "green-bowl",
+    "name": "Avocado Toast",
+    "description": "Sourdough, smashed avocado, chilli flakes and lemon.",
+    "category": "Breakfast",
+    "price_cents": 750,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "green-bowl",
+    "name": "Green Smoothie",
+    "description": "Spinach, apple, banana and lime blended fresh.",
+    "category": "Drinks",
+    "price_cents": 590,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "the-harbour-grill",
+    "name": "Harbour Burger",
+    "description": "Beef patty, smoked cheddar, crispy onions and harbour sauce.",
+    "category": "Burgers",
+    "price_cents": 1350,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "the-harbour-grill",
+    "name": "Fish & Chips",
+    "description": "Beer-battered fish, chunky chips and tartar sauce.",
+    "category": "Grill",
+    "price_cents": 1450,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "the-harbour-grill",
+    "name": "Apple Crumble",
+    "description": "Warm apple crumble with vanilla custard.",
+    "category": "Desserts",
+    "price_cents": 650,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "cork-coffee-roasters",
+    "name": "Flat White",
+    "description": "Double espresso with silky steamed milk.",
+    "category": "Cafe",
+    "price_cents": 380,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "cork-coffee-roasters",
+    "name": "Cinnamon Bun",
+    "description": "Soft cardamom dough rolled with cinnamon sugar.",
+    "category": "Bakery",
+    "price_cents": 420,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "cork-coffee-roasters",
+    "name": "Breakfast Sandwich",
+    "description": "Fried egg, bacon and cheddar in a toasted brioche bun.",
+    "category": "Breakfast",
+    "price_cents": 690,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "shoreditch-pizza-co",
+    "name": "Pepperoni Pizza",
+    "description": "Tomato, mozzarella and generous slices of pepperoni.",
+    "category": "Pizza",
+    "price_cents": 1350,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "shoreditch-pizza-co",
+    "name": "Truffle Mushroom Pizza",
+    "description": "Wild mushrooms, mozzarella and truffle oil.",
+    "category": "Pizza",
+    "price_cents": 1450,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "shoreditch-pizza-co",
+    "name": "Garlic Dough Balls",
+    "description": "Warm dough balls with garlic butter and herb dip.",
+    "category": "Sides",
+    "price_cents": 550,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "brick-lane-curry-house",
+    "name": "Lamb Rogan Josh",
+    "description": "Slow-cooked lamb in a Kashmiri chilli and tomato sauce.",
+    "category": "Curry",
+    "price_cents": 1390,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "brick-lane-curry-house",
+    "name": "Paneer Curry",
+    "description": "Golden paneer in a creamy tomato and spinach sauce.",
+    "category": "Curry",
+    "price_cents": 1190,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "brick-lane-curry-house",
+    "name": "Samosa Trio",
+    "description": "Three crisp vegetable samosas with tamarind chutney.",
+    "category": "Sides",
+    "price_cents": 590,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "northern-noodle-bar",
+    "name": "Tonkotsu Ramen",
+    "description": "Rich pork broth, noodles, soft egg and spring onion.",
+    "category": "Noodles",
+    "price_cents": 1250,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "northern-noodle-bar",
+    "name": "Pad Thai",
+    "description": "Rice noodles, tamarind, peanuts and lime.",
+    "category": "Noodles",
+    "price_cents": 1150,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "northern-noodle-bar",
+    "name": "Pork Bao Buns",
+    "description": "Two steamed buns with sticky pork and pickled cucumber.",
+    "category": "Sides",
+    "price_cents": 690,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "berlin-doner-house",
+    "name": "Döner Kebab",
+    "description": "Shaved meat, salad and garlic sauce in warm flatbread.",
+    "category": "Doner",
+    "price_cents": 890,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "berlin-doner-house",
+    "name": "Falafel Wrap",
+    "description": "Crispy falafel, hummus, pickles and fresh herbs.",
+    "category": "Doner",
+    "price_cents": 790,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "berlin-doner-house",
+    "name": "Ayran",
+    "description": "Chilled salted yoghurt drink.",
+    "category": "Drinks",
+    "price_cents": 250,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "mitte-bowl",
+    "name": "Buddha Bowl",
+    "description": "Roasted vegetables, quinoa, hummus and tahini dressing.",
+    "category": "Healthy",
+    "price_cents": 1150,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "mitte-bowl",
+    "name": "Halloumi Wrap",
+    "description": "Grilled halloumi, roasted peppers and herb yoghurt.",
+    "category": "Healthy",
+    "price_cents": 950,
+    "is_available": true,
+    "is_active": true
+  },
+  {
+    "business_slug": "mitte-bowl",
+    "name": "Basque Cheesecake",
+    "description": "Burnt-top cheesecake with a soft, creamy centre.",
+    "category": "Desserts",
+    "price_cents": 550,
+    "is_available": true,
+    "is_active": true
+  }
+]
